@@ -1,6 +1,6 @@
 ---
 id: getting-started
-title: Getting Started
+title: سرآغاز
 permalink: docs/getting-started.html
 next: add-react-to-a-website.html
 redirect_from:
@@ -18,21 +18,21 @@ redirect_from:
   - "docs/environments.html"
 ---
 
-This page is an overview of the React documentation and related resources.
+در این صفحه مروری بر مستندات React و منابع مرتبط با آن را خواهیم داشت.
 
-**React** is a JavaScript library for building user interfaces. Learn what React is all about on [our homepage](/) or [in the tutorial](/tutorial/tutorial.html).
+**React** یک کتابخانه جاوا اسکریپت برای ساخت رابط کاربری است. در لینک های [صفحه اصلی ما](/) یا [آموزش](/tutorial/tutorial.html) می توانید اطلاعاتی در مورد React کسب نمایید.
 
 ---
 
-- [Try React](#try-react)
-- [Learn React](#learn-react)
-- [Staying Informed](#staying-informed)
-- [Versioned Documentation](#versioned-documentation)
-- [Something Missing?](#something-missing)
+- [React را امتجان کنید](#try-react)
+- [React را بیاموزید](#learn-react)
+- [با خبر بمانید](#staying-informed)
+- [مستندات نسخه ای](#versioned-documentation)
+- [جایی از کار می لنگه؟](#something-missing)
 
-## Try React {#try-react}
+## React را امتجان کنید {#try-react}
 
-React has been designed from the start for gradual adoption, and **you can use as little or as much React as you need.** Whether you want to get a taste of React, add some interactivity to a simple HTML page, or start a complex React-powered app, the links in this section will help you get started.
+React از همان ابتدا برای فراگیری تدریجی طراحی شده است و **شما می توانید از React به همان اندازه که نیاز دارید کم یا به اندازه کافی استفاده کنید.** چه بخواهید مقداری از React را بچشید و چند اینترکتیویتی به یک صفحه ساده HTML اضافه کنید یا اینکه یک برنامه پیچیده با React‌را شروع کنید، پیوندهای این بخش به شما کمک می کند تا شروع کنید.
 
 ### Online Playgrounds {#online-playgrounds}
 
